@@ -1,6 +1,5 @@
 # Flickr-API-integration
-A simple app that lets you find nearest places to eat and rate them for personal use.
-
+A simple app that lets you find nearest places to eat and rate them for personal use. Powered by Foursquare API.
 
 # How to use
 You need to have cocoapods installed for this to work.
