@@ -4,7 +4,9 @@ A simple app that lets you find nearest places to eat and rate them for personal
 
 # How to use
 You need to have cocoapods installed for this to work.
-Make sure to do the usual "pods update" before running the project.
+
+Make sure to do the usual "pod install" before running the project.
+
 Replace the client ID and client secret with your own by making a new app flickr API console. Make the necessary changes in bundle id and redirect urls.
 That's it.
 
